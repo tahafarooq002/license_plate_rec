@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="250" alt="LPR System Logo">
+</p>
+
 # License Plate Recognition (LPR) System
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
